@@ -1,0 +1,29 @@
+   body {
+       height: 100vh;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+   }
+   
+   form {
+        width: 400px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 1em;
+        
+    }
+
+    button {
+        width: 13em;
+    }
+
+    .resultado {        
+        width: 150px;      
+        position: absolute;
+        margin-right: 40em;
+        border: 1px solid #000;
+
+    }
+
